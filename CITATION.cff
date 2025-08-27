@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Arduino Bicycle Speedometer — Kyoto Award 2019"
+authors:
+  - family-names: Mukanov
+    given-names: Madiyar
+date-released: 2019-07-15
+version: "1.0.0"
+keywords: [arduino, bicycle, speedometer, hall, servo, lcd1602, ldr]
+repository-code: "https://github.com/USERNAME/arduino-bike-speedometer-kyoto-2019"
+message: "If you use this project, please cite this repository."
