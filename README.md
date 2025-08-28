@@ -80,7 +80,7 @@
 **Award:** Excellence in Electronics, KIT Summer School (Kyoto, 2019)
 
 <p align="center">
-  <a href="media/certificates/kyoto-2019-certificate.pdf">
+  <a href="media/certificates/1st place.pdf">
     <img src="media/certificates/kyoto-2019-certificate.jpg"
          alt="Kyoto 2019 — Excellence in Electronics certificate"
          width="720">
